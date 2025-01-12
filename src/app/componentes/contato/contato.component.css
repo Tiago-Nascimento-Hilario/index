@@ -1,0 +1,20 @@
+section ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+section ul li{
+    list-style: none;
+}
+
+section ul button{
+    border: none;
+    background-color: #F8F9FA;
+ 
+}
+
+section ul button img{
+    cursor: pointer;
+}
